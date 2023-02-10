@@ -7,7 +7,6 @@ async function startDB(){
         console.log('conected to db'); 
     } catch (error) {
         console.log(`erro: ${error}`);
-
     }
 }
 
